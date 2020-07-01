@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Adeel_Ahmad</title>
+    <link>https://adeelahmad-co.github.io/portfolio/post/</link>
+    <description>Recent content in Projects on Adeel_Ahmad</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 14 Jun 2020 12:00:00 -0500</lastBuildDate>
+    
+	<atom:link href="https://adeelahmad-co.github.io/portfolio/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Project 16: Movie_Recommendation_System</title>
+      <link>https://adeelahmad-co.github.io/portfolio/post/project-15/</link>
+      <pubDate>Sat, 27 Jun 2020 10:58:00 -0400</pubDate>
+      
+      <guid>https://adeelahmad-co.github.io/portfolio/post/project-15/</guid>
+      <description>Recommendation systems are among the most popular applications of data science. They are used to predict the Rating or Preference that a user would give to an item.
+Almost every major company has applied them in some form or the other: Amazon uses it to suggest products to customers, YouTube uses it to decide which video to play next on auto play, and Facebook uses it to recommend pages to like and people to follow.</description>
+    </item>
+    
+    <item>
+      <title>Project 15: Predict_Customer_Churn</title>
+      <link>https://adeelahmad-co.github.io/portfolio/post/project-16/</link>
+      <pubDate>Fri, 26 Jun 2020 10:58:00 -0400</pubDate>
+      
+      <guid>https://adeelahmad-co.github.io/portfolio/post/project-16/</guid>
+      <description>In this project we will be building a model that Predicts customer churn with Machine Learning. We do this by implementing a predictive model with the help of python. Prediction of Customer Churn means our beloved customers with the intention of leaving us in the future.
+  This Project’s GitHub Repository</description>
+    </item>
+    
+    <item>
+      <title>Project 14: Weather_Forecasting</title>
+      <link>https://adeelahmad-co.github.io/portfolio/post/project-14/</link>
+      <pubDate>Thu, 25 Jun 2020 10:58:00 -0400</pubDate>
+      
+      <guid>https://adeelahmad-co.github.io/portfolio/post/project-14/</guid>
+      <description>In this project, I will show how we can do Weather Forecasting with Machine Learning algorithm and compare some frameworks for further classification.
+  This Project’s GitHub Repository</description>
+    </item>
+    
+    <item>
+      <title>Project 13: Bitcoin_Price_Prediction</title>
+      <link>https://adeelahmad-co.github.io/portfolio/post/project-13/</link>
+      <pubDate>Wed, 24 Jun 2020 10:58:00 -0400</pubDate>
+      
+      <guid>https://adeelahmad-co.github.io/portfolio/post/project-13/</guid>
+      <description>In this Data Science Project we will predict Bitcoin Price for the next 30 days with Machine Learning model Support Vector Machines(Regression).
+  This Project’s GitHub Repository</description>
+    </item>
+    
+    <item>
+      <title>Project 12: Python Invisible Cloak</title>
+      <link>https://adeelahmad-co.github.io/portfolio/post/project-12/</link>
+      <pubDate>Tue, 23 Jun 2020 10:58:00 -0400</pubDate>
+      
+      <guid>https://adeelahmad-co.github.io/portfolio/post/project-12/</guid>
+      <description>We all have witnessed and wondered about the invisible cloak in the harry potter movie, but how come it is possible ? is it a computer graphics ?
+No !!!!! It is possible with our python&amp;rsquo;s very own opencv library !! In this project a build a invisible cloak with open_cv
+  This Project’s GitHub Repository</description>
+    </item>
+    
+    <item>
+      <title>Project 11: Question-Answering System With BERT</title>
+      <link>https://adeelahmad-co.github.io/portfolio/post/project-11/</link>
+      <pubDate>Mon, 22 Jun 2020 10:58:00 -0400</pubDate>
+      
+      <guid>https://adeelahmad-co.github.io/portfolio/post/project-11/</guid>
+      <description>*In this project, I build a practical, end-to-end Question-Answering (QA) system with BERT in roughly 3 lines of code. I treat a corpus of text documents as a knowledge base to which we can ask questions and retrieve exact answers using BERT. This goes beyond simplistic keyword searches.
+For this example, we will use the 20 Newsgroup dataset as the text corpus. As a collection of newsgroup postings that contain an abundance of opinions and debates, the corpus is not ideal as a knowledgebase.</description>
+    </item>
+    
+    <item>
+      <title>Project 10: Flower Classifier </title>
+      <link>https://adeelahmad-co.github.io/portfolio/post/project-10/</link>
+      <pubDate>Sun, 21 Jun 2020 10:58:00 -0400</pubDate>
+      
+      <guid>https://adeelahmad-co.github.io/portfolio/post/project-10/</guid>
+      <description>Fine-tuning the BiT model to Classify images of Flowers We predicting the images from the dataset we’re going to fine-tune on. This dataset contains 3670 images of 5 classes of flowers. Note that the correct label of the image we’re going to predict (‘tulip’) is not a class in ImageNet and so the model cannot predict that at the moment - let’s see what it tries to do instead. After Fine-tuning we get the accuracy of 97%</description>
+    </item>
+    
+    <item>
+      <title>Project 9: Amazon-Products-review</title>
+      <link>https://adeelahmad-co.github.io/portfolio/post/project-9/</link>
+      <pubDate>Sat, 20 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://adeelahmad-co.github.io/portfolio/post/project-9/</guid>
+      <description>Product reviews are becoming more important with the evolution of traditional brick and mortar retail stores to online shopping.
+Consumers are posting reviews directly on product pages in real time. With the vast amount of consumer reviews, this creates an opportunity to see how the market reacts to a specific product.
+We will be attempting to see if we can predict the sentiment of a product review using python and machine learning.</description>
+    </item>
+    
+    <item>
+      <title>Project 8: Object Recognizer</title>
+      <link>https://adeelahmad-co.github.io/portfolio/post/project-8/</link>
+      <pubDate>Fri, 19 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://adeelahmad-co.github.io/portfolio/post/project-8/</guid>
+      <description>The YoloV3-TF2 is used to recognize objects which work very well and trained on COCO dataset
+  This Project’s GitHub Repository</description>
+    </item>
+    
+    <item>
+      <title>Project 7: Multi-label-Movies-Poster-Classification</title>
+      <link>https://adeelahmad-co.github.io/portfolio/post/project-7/</link>
+      <pubDate>Wed, 17 Jun 2020 10:58:00 -0400</pubDate>
+      
+      <guid>https://adeelahmad-co.github.io/portfolio/post/project-7/</guid>
+      <description>We propose to achieve movie genre classification based only on movie poster images. A deep neural network is constructed to jointly describe visual appearance and object information, and classify a given movie poster image into genres. Data is taken from IMDB which is more then 7k movies posters. The model is trained with dropout and Batchnormalization to pervent over fitting. After Optimization model is able to predict Muliple Genres with 90% accuracy.</description>
+    </item>
+    
+    <item>
+      <title>Project 6: KPMG Virtual Internship</title>
+      <link>https://adeelahmad-co.github.io/portfolio/post/project-2/</link>
+      <pubDate>Mon, 15 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://adeelahmad-co.github.io/portfolio/post/project-2/</guid>
+      <description>In this Virtual Internship, the KPMG wants from me to analyze data and the answers of some questions like What are the trends in the underlying data? Which customer segment has the highest customer value? What do you propose should be Sprocket Central Pty Ltd ’s marketing and growth strategy? What additional external datasets may be useful to obtain greater insights into customer preferences and propensity to purchase the products?</description>
+    </item>
+    
+    <item>
+      <title>Project 5: Data Science Salary Estimator</title>
+      <link>https://adeelahmad-co.github.io/portfolio/post/project-1/</link>
+      <pubDate>Thu, 07 May 2020 10:58:00 -0400</pubDate>
+      
+      <guid>https://adeelahmad-co.github.io/portfolio/post/project-1/</guid>
+      <description>Created a tool that estimates data science salaries (MAE ~ $ 11K) to help data scientists negotiate their income when they get a job. Scraped over 1000 job descriptions from glassdoor using python and selenium Engineered features from the text of each job description to quantify the value companies put on python, * Built a client facing API using flask excel, aws, and spark. Optimized Linear, Lasso, and Random Forest Regressors using GridsearchCV to reach the best model.</description>
+    </item>
+    
+    <item>
+      <title>Project 4: AirPassengers Estimator</title>
+      <link>https://adeelahmad-co.github.io/portfolio/post/project-3/</link>
+      <pubDate>Thu, 30 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://adeelahmad-co.github.io/portfolio/post/project-3/</guid>
+      <description>Created a tool that estimates AirPassengers so that the airline companies used these prediction to make plans to manage there trafic and much more. This dataset taken from kaggle provides monthly totals of a US airline passengers from 1949 to 1960. Engineered features in a way that the future days passengers are predicted upon past days passengers. I used a small LSTM model which gives very good result of loss: 0.</description>
+    </item>
+    
+    <item>
+      <title>Project 3: GOOGLE Stock Prices Prediction</title>
+      <link>https://adeelahmad-co.github.io/portfolio/post/project-4/</link>
+      <pubDate>Thu, 23 Apr 2020 10:58:00 -0400</pubDate>
+      
+      <guid>https://adeelahmad-co.github.io/portfolio/post/project-4/</guid>
+      <description>Predicting how the stock market will perform is one of the most difficult things to do. There are so many factors involved in the prediction – physical factors vs. physhological, rational and irrational behaviour, etc. All these aspects combine to make share prices volatile and very difficult to predict with a high degree of accuracy.
+Fundamental Analysis involves analyzing the company’s future profitability on the basis of its current business environment and financial performance.</description>
+    </item>
+    
+    <item>
+      <title>Project 2: Humman activiuty Recognation</title>
+      <link>https://adeelahmad-co.github.io/portfolio/post/project-5/</link>
+      <pubDate>Thu, 16 Apr 2020 10:58:00 -0400</pubDate>
+      
+      <guid>https://adeelahmad-co.github.io/portfolio/post/project-5/</guid>
+      <description>Created a tool that estimates the movement of a person, based on sensor data, such as an accelerometer. Data is Taken from WISDM LAB I do data engineering ,data which was initialy not in right format and highly inbalanced Built a CNN model from which i get the accuracy of 88% on testing data. The results are again cheak through Confusion Metrics plot.    This Project’s GitHub Repository</description>
+    </item>
+    
+    <item>
+      <title>Project 1: Crediat_card_fruad_datection</title>
+      <link>https://adeelahmad-co.github.io/portfolio/post/project-6/</link>
+      <pubDate>Thu, 09 Apr 2020 10:58:00 -0400</pubDate>
+      
+      <guid>https://adeelahmad-co.github.io/portfolio/post/project-6/</guid>
+      <description>Credit card fraud costs consumers and the financial company billions of dollars annually I created a tool that perfom the Crediat_card_fruad_datection. This dataset taken from kaggle presents transactions that occurred in two days, where we have 492 frauds out of 284,807 transactions. Built a CNN model which predict fruad in crediat card and i got the accuracy of 94% The results are again cheak through Confusion Metrics plot.    This Project’s GitHub Repository</description>
+    </item>
+    
+  </channel>
+</rss>
